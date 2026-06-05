@@ -4,7 +4,7 @@ import os
 LLM_CONFIG = {
     "MODEL_NAME": "qwen3.7-max",
     "BASE_URL": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-    "API_KEY": "sk-4f29ec9473fc47599f5d7882fe585979"
+    "API_KEY": "你的千问api key"
 }
 
 # 数据目录配置
